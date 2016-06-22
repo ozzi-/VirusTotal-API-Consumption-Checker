@@ -1,0 +1,2 @@
+# Add your proxy below, else delete this file or remove its content
+# Syntax: hostname:port
